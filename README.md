@@ -22,3 +22,4 @@ Segue descrição dos recursos que serão criados:
 
 Nota 1: Importante lembrar que todos os nomes atribuidos podem ser modificados.
 Nota 2: Usuário e senha da vm está no arquivo varcredenciais
+# pocfilesync
